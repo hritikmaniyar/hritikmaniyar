@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🎰
-🎓 I am a pre-final year undergrad pursuing my Bachelors Degree in Computer Science & Engineering. </br>
+🎓 I am a final year undergrad pursuing my Bachelors Degree in Computer Science & Engineering. </br>
 👨‍💻  I am ardent about Web Development, Algorithms and Data structures and enjoy learning and exploring new things. </br>
 <br />
